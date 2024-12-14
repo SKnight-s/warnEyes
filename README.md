@@ -6,6 +6,7 @@ A simple application that will notify the user when he has to take a break.
 
 By default the timer is set to 30 minutes.
 When the end of the timer is reached a notification will be sent to the user (on Linux or Windows) and a sound will be played.
+The timer automatically restart after that. You can stop it to take your break or let it continue if you want to work longer.
 
 After the pause, you can restart the timer by clicking on the "Start" button.
 
